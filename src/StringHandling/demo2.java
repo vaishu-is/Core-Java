@@ -9,6 +9,7 @@ public class demo2 {
         String str5 =new String("abc");//1
         String str6 ="abc";//0
         // 5 in heap and 1 in scp
+        // Comapring toString Method
         System.out.println(str1==str2);
         System.out.println(str1==str3);
         System.out.println(str1==str4);
