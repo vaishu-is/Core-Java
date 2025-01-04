@@ -1,4 +1,4 @@
-package StringHandling;
+package StringHandling.Methods;
 
 public class charAt {
     public static void main(String[] args) {
